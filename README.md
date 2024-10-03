@@ -9,10 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DantonDanvin](https://github.com/DantonDanvin)
 
-- 📝 I regularly write articles on [https://manthanvariya.blogspot.com/](https://manthanvariya.blogspot.com/)
-
-- ⚡ Fun fact **I am funny 😅**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manthan_variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manthan_variya" height="30" width="40" /></a>
@@ -36,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantondanvin&show_icons=true&locale=en" alt="dantondanvin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantondanvin&" alt="dantondanvin" /></p>
+
