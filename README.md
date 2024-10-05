@@ -13,13 +13,9 @@
 <p align="left">
 <a href="https://twitter.com/manthan_variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manthan_variya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manthan variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan variya" height="30" width="40" /></a>
-<a href="https://fb.com/manthan variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manthan variya" height="30" width="40" /></a>
 <a href="https://instagram.com/mnthn____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mnthn____" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/manthan variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manthan variya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nairobi_1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nairobi_1234" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/manthan_variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manthan_variya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manthanvariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manthanvariya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/manthanva8sj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manthanva8sj4" height="30" width="40" /></a>
 <a href="https://discord.gg/danton5886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="danton5886" height="30" width="40" /></a>
 </p>
 
